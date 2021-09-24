@@ -11,4 +11,4 @@ Checklist:
 [X] Each timeblock is color coded to indicate whether it is in the past, present, or future
 [X] Can enter and save an event to local stoage
 
-![Template for the scheduler](imgs/Capture.png)
+![Template for the scheduler](imgs/Capture.PNG)
