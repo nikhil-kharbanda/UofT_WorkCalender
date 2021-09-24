@@ -1,6 +1,6 @@
 Name: Nikhil Kharbanda  
 Project: Work Day Scheduler  
-URL to project: https://nikhil-kharbanda.github.io/UofT_WorkDayScheduler/  
+URL to project: https://nikhil-kharbanda.github.io/UofT_WorkCalender/
 Due: September 24th, 2021  
 
 In this assignment, we were tasked to make a simple scheduler that displays the work hours, and allows the user to enter a description or a calender reminder.  
